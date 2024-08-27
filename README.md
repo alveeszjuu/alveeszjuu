@@ -6,6 +6,8 @@ meu nome é julia
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- ### Você entrar em contato comigo 💌
+- ### Você entrar em contato comigo 🍓🍓
 
 - 00001129685536SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/V7X5UiUmtNoAAAAC/strawberry-shortcake-blingee.gif)
